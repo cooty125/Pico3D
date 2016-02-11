@@ -81,7 +81,31 @@ Read LICENSE file first!
 	fx_comp.exe <input shader file> <output shader file>
 	fx_comp.exe "myShader.fx" "myShader.psf"
 	
+	#OBJ2PMF (model converter)
+	./tools/OBJ2PMF/
+	./tools/OBJ2PMF/c4d_objex.py
+	./tools/OBJ2PMF/src/
+	./tools/OBJ2PMF/src/Properties/
+	./tools/OBJ2PMF/src/Properties/Assembly.cs
+	./tools/OBJ2PMF/src/OBJ2PMF.cs
+	
+	#Release (32-bit)
+	./tools/OBJ 2 PMF/release_x86/obj_2_pmf.exe
+	
+	#Cinema4D OBJ Export Script
+	- Copy this python script:
+	./tools/OBJ2PMF/c4d_objex.py
+	- Here:
+	%appdata%\MAXON\Cinema 4D R<your_c4d_version>\library\scripts\c4d_objex.py
+	
+	#Usage
+	- Model without materials:
+	obj_2_pmf.exe <input model file> <output model file>
+	- Model with materials:
+	obj_2_pmf.exe <input model file> <output model file> /d <diffuse map texture> /n <normal map texture> /s <specular map texture> /e <emissive map texture>
+	
 #Other files
+
 	./logo.png
 
 ------------------------------------------------------------------------------------------------
