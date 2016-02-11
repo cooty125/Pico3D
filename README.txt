@@ -53,6 +53,15 @@ Read LICENSE file first!
 	./src/ServiceContainer.cs
 	./src/icon.ico
 	
+# Pico 3D Release (32-bit)
+	
+	# Output library file
+	./release_x86/pico3d_ref.dll
+	
+	# Compiled shaders
+	./release_x86/default.psf
+	./release_x86/texture.psf
+	
 #Tools
 
 	# FX Compiler (shader compiler)
@@ -71,15 +80,6 @@ Read LICENSE file first!
 	#Usage
 	fx_comp.exe <input shader file> <output shader file>
 	fx_comp.exe "myShader.fx" "myShader.psf"
-	
-# Release (32-bit)
-	
-	# Output library file
-	./release_x86/pico3d_ref.dll
-	
-	# Compiled shaders
-	./release_x86/default.psf
-	./release_x86/texture.psf
 	
 #Other files
 	./logo.png
