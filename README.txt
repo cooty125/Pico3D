@@ -91,6 +91,7 @@ Read LICENSE file first!
 	./tools/OBJ2PMF/src/Properties/
 	./tools/OBJ2PMF/src/Properties/Assembly.cs
 	./tools/OBJ2PMF/src/Mesh.cs
+	./tools/OBJ2PMF/src/OBJ2PMF.csproj
 	./tools/OBJ2PMF/src/OBJ2PMF.cs
 	
 	#Release (32-bit)
