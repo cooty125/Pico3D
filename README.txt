@@ -90,6 +90,7 @@ Read LICENSE file first!
 	./tools/OBJ2PMF/src/
 	./tools/OBJ2PMF/src/Properties/
 	./tools/OBJ2PMF/src/Properties/Assembly.cs
+	./tools/OBJ2PMF/src/Mesh.cs
 	./tools/OBJ2PMF/src/OBJ2PMF.cs
 	
 	#Release (32-bit)
@@ -113,4 +114,4 @@ Read LICENSE file first!
 	./logo.png
 
 ------------------------------------------------------------------------------------------------
-Copyright © David Kutnar 2016 - All rights reserved!
+Copyright Â© David Kutnar 2016 - All rights reserved!
