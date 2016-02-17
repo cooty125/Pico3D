@@ -12,7 +12,7 @@
  * =====================================================================
  */
 
-// WARNING! This is just for one mesh models (without materials yet).
+// WARNING! This is just for one mesh based models! (without materials yet)
 
 using System;
 using System.Collections.Generic;
