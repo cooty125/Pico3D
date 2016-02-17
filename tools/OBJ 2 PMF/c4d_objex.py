@@ -1,9 +1,9 @@
 # ============================================================
 # * File Name: c4d_objex.py
-# * Location: %appdata%\MAXON\Cinema 4D R13_05DFD2A0\library\scripts\
-# * Project: C4D OBJ Export
+# * Location: %appdata%\MAXON\Cinema 4D <your c4d version>\library\scripts\
+# * Project: C4D OBJ Export (tested on C4D R13)
 # ------------------------------------------------------------
-# * Copyright: © David Kutnar 2016
+# * Copyright: Â© David Kutnar 2016
 # * Last Update: 11.02 2016
 # ============================================================
 
