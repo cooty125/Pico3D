@@ -1,5 +1,6 @@
 Pico 3D
 Embedded 3D graphics library for Windows (.NET)
+Last Update: 17.2 2016
 ------------------------------------------------------------------------------------------------
 Read LICENSE file first!
 ./LICENSE
@@ -83,7 +84,9 @@ Read LICENSE file first!
 	
 	#OBJ2PMF (model converter)
 	./tools/OBJ2PMF/
-	./tools/OBJ2PMF/c4d_objex.py
+	./tools/OBJ2PMF/Cinema 4D OBJ Export Script/
+	./tools/OBJ2PMF/Cinema 4D OBJ Export Script/C4D OBJ Exporter.py
+	./tools/OBJ2PMF/Cinema 4D OBJ Export Script/C4D OBJ Exporter.tif
 	./tools/OBJ2PMF/src/
 	./tools/OBJ2PMF/src/Properties/
 	./tools/OBJ2PMF/src/Properties/Assembly.cs
@@ -93,10 +96,11 @@ Read LICENSE file first!
 	./tools/OBJ 2 PMF/release_x86/obj_2_pmf.exe
 	
 	#Cinema4D OBJ Export Script
-	- Copy this python script:
-	./tools/OBJ2PMF/c4d_objex.py
+	- Copy these files:
+	./tools/OBJ2PMF/Cinema 4D OBJ Export Script/C4D OBJ Exporter.py
+	./tools/OBJ2PMF/Cinema 4D OBJ Export Script/C4D OBJ Exporter.tif
 	- Here:
-	%appdata%\MAXON\Cinema 4D R<your_c4d_version>\library\scripts\c4d_objex.py
+	%appdata%\MAXON\Cinema 4D R<your c4d version>\library\scripts\
 	
 	#Usage
 	- Model without materials:

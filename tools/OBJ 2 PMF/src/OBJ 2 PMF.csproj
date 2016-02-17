@@ -41,6 +41,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Mesh.cs" />
     <Compile Include="OBJ2PMF.cs" />
     <Compile Include="Properties\Assembly.cs" />
   </ItemGroup>
