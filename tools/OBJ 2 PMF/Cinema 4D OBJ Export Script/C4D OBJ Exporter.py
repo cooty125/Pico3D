@@ -1,10 +1,19 @@
 # ============================================================
+<<<<<<< HEAD:tools/OBJ 2 PMF/Cinema 4D OBJ Export Script/C4D OBJ Exporter.py
 # * File Name: C4D OBJ Exporter.py
 # * Location: %appdata%\MAXON\Cinema 4D <your c4d version>\library\scripts\
 # * Project: C4D OBJ Export (tested on C4D R13)
 # ------------------------------------------------------------
 # * Copyright: © David Kutnar 2016
 # * Last Update: 17.02 2016
+=======
+# * File Name: c4d_objex.py
+# * Location: %appdata%\MAXON\Cinema 4D <your c4d version>\library\scripts\
+# * Project: C4D OBJ Export (tested on C4D R13)
+# ------------------------------------------------------------
+# * Copyright: Â© David Kutnar 2016
+# * Last Update: 11.02 2016
+>>>>>>> origin/master:tools/OBJ 2 PMF/c4d_objex.py
 # ============================================================
 
 import c4d
